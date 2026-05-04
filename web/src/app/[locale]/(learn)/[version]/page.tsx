@@ -79,6 +79,8 @@ export default async function VersionPage({
         diff={diff}
         source={versionData.source}
         filename={versionData.filename}
+        classes={versionData.classes}
+        functions={versionData.functions}
       />
 
       {/* Prev / Next navigation */}

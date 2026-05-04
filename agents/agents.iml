@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="GO_MODULE" version="4">
+  <component name="NewModuleRootManager" inheritContentContainer="false">
+    <content url="file://$MODULE_DIR$/agents">
+      <sourceFolder url="file://$MODULE_DIR$/agents" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/agents/.git" />
+      <excludeFolder url="file://$MODULE_DIR$/agents/vendor" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+</module>
